@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # GenAI-RAG--Space-Chatbot
 RAG Tabanlı Chatbot Projesi
 
@@ -270,3 +271,7 @@ Yıldız 🌟 bırakmayı unutmayın!
 Öneri, hata raporu veya geliştirme isteği için GitHub üzerinden issue açabilirsiniz.
 Yıldız 🌟 bırakmayı unutmayın!
 >>>>>>> 14af3931 (Initial commit - RAG Chatbot project)
+=======
+# GenAI-RAG--Space-Chatbot
+RAG Tabanlı Chatbot Projesi
+>>>>>>> c82d8a3af7735ced6100fc5990ab07104266bdbc
