@@ -5,10 +5,8 @@ from chromadb import Client, Settings
 from chromadb.utils import embedding_functions
 from google import genai
 
-# -----------------------------------------------------------
-# 0. ORTAM AYARLARI
-# -----------------------------------------------------------
 
+# 0. ORTAM AYARLARI
 # .env'den API anahtarını yükle
 load_dotenv()
 API_KEY = os.getenv("GEMINI_API_KEY")
