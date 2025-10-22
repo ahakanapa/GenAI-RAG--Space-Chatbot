@@ -6,7 +6,7 @@ import os
 DATA_FILE_PATH = "bilgi_kaynagi.txt"
 
 # 1. Uygulama Başlangıcında Veritabanı Kurulumu
-# Bu, "Çözüm Mimarisi" ve "Çalışma Kılavuzu"nun bir parçasıdır
+# Bu, "Çözüm Mimarisi" ve "Çalışma Kılavuzu"nun bir parçasıdır.
 if not os.path.exists(DATA_FILE_PATH):
     st.error(f"HATA: '{DATA_FILE_PATH}' dosyası bulunamadı. Lütfen ekleyin.")
 else:
